@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on backend software development in JAVA and spring framework
 - 📫 How to reach me ranjithkumarravi07@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
 
 <!---
 Ranjithdevelops/Ranjithdevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
